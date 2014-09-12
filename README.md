@@ -4,4 +4,4 @@ Thinkful
 thinkful projects
 
 
-http://thewaterbearer.github.io/thinkful
+http://thewaterbearer.github.io/Thinkful
